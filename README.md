@@ -1,4 +1,4 @@
-# 01.spring-backend-v1.0
+# 01.spring-backend-v1.0 hi
 
 ## 이 코드는 무엇을 위한 실습인가?
 Spring Boot(JPA + H2)로 만든 **REST API 전용 백엔드**입니다. 사용자(User)·상품(Product)·주문(Order)·결제(Payment)·배송(Delivery) 도메인을 다루며, JPA 연관관계(`@ManyToOne`, `@OneToOne`), 상태 전이(Enum), Actuator/Prometheus를 이용한 Kubernetes 헬스체크·모니터링을 실습합니다.
